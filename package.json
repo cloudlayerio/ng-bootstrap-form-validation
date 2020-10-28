@@ -31,7 +31,7 @@
   ],
   "author": "Kevin Kipp",
   "repository": {
-    "url": "https://github.com/third774/ng-bootstrap-form-validation"
+    "url": "https://github.com/cloudlayerio/ng-bootstrap-form-validation"
   },
   "private": true,
   "dependencies": {
